@@ -1,1 +1,1 @@
-# CMSC-127-Cuckoo-Budget-Manager-Status-Sharing-Database-Project-
+This database project for the course CMSC 127 was originally called "Budget Manager", a listing app that simply helps users to budget. This eventually expanded to "Cuckoo", where users can now share thoughts, perhaps financial advice, to other users.

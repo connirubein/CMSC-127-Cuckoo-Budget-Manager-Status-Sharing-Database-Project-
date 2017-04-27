@@ -10,7 +10,7 @@ public class ConnectionConfiguration {
 		Connection connection = null;
 		try{
 			Class.forName("com.mysql.jdbc.Driver");
-			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/cmsc127?verifyServerCertificate=false&useSSL=true","root","innoc09061998");
+			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/cmsc127?verifyServerCertificate=false&useSSL=true","root","/*password here*/");
 		}
 		catch(Exception e){
 			e.printStackTrace();
